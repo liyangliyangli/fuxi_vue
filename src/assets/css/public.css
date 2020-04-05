@@ -1,0 +1,10 @@
+.root{
+	position: absolute;
+	top:45px;
+	background:#fff;
+	overflow: scroll;
+	right:0;
+	left:0;
+	bottom:2.45rem;
+	padding-bottom:1rem
+}
